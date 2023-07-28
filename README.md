@@ -11,3 +11,7 @@
 #### Brain calc game preview
 
 [![asciicast](https://asciinema.org/a/tkoy70Vd1xjPXEBKSa3gMhyl1.svg)](https://asciinema.org/a/tkoy70Vd1xjPXEBKSa3gMhyl1)
+
+#### Brain gcd (gratest common divisor) game preview
+
+[![asciicast](https://asciinema.org/a/Y7COjs7XlJmIgwbp92CL4vnUu.svg)](https://asciinema.org/a/Y7COjs7XlJmIgwbp92CL4vnUu)
