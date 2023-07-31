@@ -15,3 +15,7 @@
 #### Brain gcd (gratest common divisor) game preview
 
 [![asciicast](https://asciinema.org/a/Y7COjs7XlJmIgwbp92CL4vnUu.svg)](https://asciinema.org/a/Y7COjs7XlJmIgwbp92CL4vnUu)
+
+#### Brain progression game preview
+
+[![asciicast](https://asciinema.org/a/hzWtshYwWBdcWPXQ6GFCSQO4U.svg)](https://asciinema.org/a/hzWtshYwWBdcWPXQ6GFCSQO4U)
