@@ -6,7 +6,7 @@
 
 #### Brain even game preview
 
-[![asciicast](https://asciinema.org/a/4LuMKF4Jpg3G4SO3js4XMm57x.svg)](https://asciinema.org/a/4LuMKF4Jpg3G4SO3js4XMm57x)
+[![asciicast](https://asciinema.org/a/599896.svg)](https://asciinema.org/a/599896)
 
 #### Brain calc game preview
 
