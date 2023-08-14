@@ -19,3 +19,7 @@
 #### Brain progression game preview
 
 [![asciicast](https://asciinema.org/a/hzWtshYwWBdcWPXQ6GFCSQO4U.svg)](https://asciinema.org/a/hzWtshYwWBdcWPXQ6GFCSQO4U)
+
+#### Brain prime game preview
+
+[![asciicast](https://asciinema.org/a/aK7tQzD0CO2SkLApOaEGTgYQh.svg)](https://asciinema.org/a/aK7tQzD0CO2SkLApOaEGTgYQh)
