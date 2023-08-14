@@ -4,6 +4,7 @@ from random import randint
 
 task = "Answer \"yes\" if the number is even, otherwise answer \"no\"."
 
+
 def isPrime(num):
     if num < 2:
         return False
@@ -15,6 +16,7 @@ def isPrime(num):
         delimeter += 1
 
     return True
+
 
 def get_game_data():
     number = randint(1, 100)
