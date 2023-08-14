@@ -16,6 +16,8 @@ def game_engine(get_game_data, task):
             print("Correct!")
             rounds_count -= 1
         else:
-            print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{right_answer}'.\n Let's try again, {name}!")
+            print(f"""'{user_answer}' is wrong answer ;(. \
+Correct answer was '{right_answer}'.\n \
+Let's try again, {name}!""")
             return
     print(f"Congratulations, {name}!")
