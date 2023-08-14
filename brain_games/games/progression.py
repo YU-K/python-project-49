@@ -13,7 +13,7 @@ def get_game_data():
     step = randrange(2, 5)
 
     for i in range(1, progression_lehgth + 1):
-        element = str(start + (i-1) * step)
+        element = str(start + (i - 1) * step)
         progression.append(element)
 
     right_answer = choice(progression)
